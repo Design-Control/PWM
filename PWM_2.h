@@ -8,7 +8,7 @@ double Ts;
 double freq;
 double duty;
 
-void generatingPWM(double Ts, double freq, double duty, double *PWM, double *tri, double *dutyCycle);
+void generatingPWM(double Ts, double freq, double duty, double *Tri, double duty_ref[], double PWM[]);
 
 
 #endif
