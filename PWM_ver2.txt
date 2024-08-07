@@ -7,9 +7,10 @@ PWM4: PWM2의 compliment PWM 신호
 
 simulink 모델은 해당 PWM 신호들을 활용한 unipolar/bipolar 인버터를 포함한다.
 
-인버터의 쇼트를 방지하기 위한 데드타임이 구현되어있다. (세부사항 미포함)
+인버터의 쇼트를 방지하기 위한 데드타임이 구현되어있다. 
+데드타임 시간을 설정하면 기본/반전 PWM 각각에서 그 절반씩 데드타임을 위한 위상 변화가 생긴다. 
 ----------------------------------------------------------------------------------------------------------------
 PMW_2.c: 소스코드
 PMW_2.h: 헤더파일
 PWM_2.slx: MATLAB simulink model 파일
-running_PMW_ver2: MATLAB simulink model을 실행하고 PWM 신호를 Plot하는 MATLAB 코드
+running_PMW_ver2: MATLAB simulink model을 실행하는 MATLAB 코드
