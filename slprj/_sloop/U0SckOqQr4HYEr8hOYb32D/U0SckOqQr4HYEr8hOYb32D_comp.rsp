@@ -1,0 +1,8 @@
+﻿-I"C:\Program Files\MATLAB\R2024a\toolbox\rtw\targets\pil\c"
+-I"C:\Users\Design And Control\DNC\github\PWM\slprj\_sloop\U0SckOqQr4HYEr8hOYb32D"
+-I"C:\Program Files\MATLAB\R2024a\extern\include"
+-I"C:\Program Files\MATLAB\R2024a\extern\include\coder\connectivity\XILTgtAppSvc"
+-I"C:\Program Files\MATLAB\R2024a\toolbox\coder\rtiostream\src\utils"
+-I"C:\Program Files\MATLAB\R2024a\toolbox\coder\rtiostream\src"
+-I"C:\Users\Design And Control\DNC\github\PWM"
+-I"C:\Program Files\MATLAB\R2024a\simulink\include"

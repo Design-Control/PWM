@@ -1,0 +1,19 @@
+PWM ver3
+
+각각 120도 위상 차이를 갖는 PWM 신호를 생성하는 코드
+--------------------------------------------------------------------------
+출력 PWM (총 6개)
+
+PWM1: A상+
+PWM2: B상+
+PWM3: C상+
+PWM4: A상- (inverted)
+PWM5: B상- (inverted)
+PWM6: C상- (inverted)
+--------------------------------------------------------------------------
+파일 구성 
+
+PMW3.c: 소스코드
+PMW3.h: 헤더파일
+PWM3.slx: MATLAB simulink model 파일
+running_PMW_ver3: MATLAB simulink model 실행 코드
